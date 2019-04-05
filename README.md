@@ -1,6 +1,10 @@
 # IVT Spaceship
 
+<<<<<<< HEAD
 Change README.md by me - editedA
+=======
+Change README.md by me - editedB
+>>>>>>> branch-B
 
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
